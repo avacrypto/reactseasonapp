@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactseasonapp/static/css/main.c452d15c.css",
+    "main.js": "/reactseasonapp/static/js/main.106bb4f3.js",
+    "index.html": "/reactseasonapp/index.html",
+    "main.c452d15c.css.map": "/reactseasonapp/static/css/main.c452d15c.css.map",
+    "main.106bb4f3.js.map": "/reactseasonapp/static/js/main.106bb4f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c452d15c.css",
+    "static/js/main.106bb4f3.js"
+  ]
+}
